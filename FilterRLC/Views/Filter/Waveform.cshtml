@@ -1,0 +1,69 @@
+﻿@model FilterRLC.Models.FilterParams
+
+<div class="container w-auto">
+    <div class="w-auto h-100" id="chart1"></div>
+    <div class="text-center p-2">
+        <table class="table table-bordered table-striped table-sm">
+            <thead>
+                <tr>
+                    <th>Resistance_1</th>
+                    <th>Resistance_2</th>
+                    <th>Inductance</th>
+                    <th>Capacitance</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>@Model.Resistance_1</td>
+                    <td>@Model.Resistance_2</td>
+                    <td>@Model.Inductance</td>
+                    <td>@Model.Capacitance</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+    <div class="text-center">
+        <a class="btn btn-primary" asp-action="ListFilters">List of Filters</a>
+    </div>
+</div>
+@section scripts{
+    <script type="text/javascript"
+            src="https://www.gstatic.com/charts/loader.js"></script>
+    <script>
+        google.charts.load('current', { 'packages': ['corechart'] });
+        google.charts.setOnLoadCallback(LoadData);
+        var data = new google.visualization.DataTable();
+        function LoadData() {
+            $.ajax({
+                data: @Model.ID,
+                url: '@Url.Action("JsonData", "Filter")',
+                type: 'POST',
+                dataType: 'json',
+                cache: false,
+                contentType: "application/jsonrequest; charset=utf-8",
+                error: function (xhr, status, error) {
+                    var err = eval("(" + xhr.responseText + ")");
+                    toastr.error(err.message);
+                },
+                success: function (results) {
+                    data = google.visualization.arrayToDataTable(results, false);
+                    var options = {
+                        title: 'Transmittance: Amplitude and Phase spectrum',
+                        width: 1000,
+                        height: 500,
+                        series: { 0: { targetAxisIndex: 0 }, 1: { targetAxisIndex: 1 } },
+                        // Adds titles to each axis.
+                        vAxes: { 0: { title: 'Amplitude [-]' }, 1: { title: 'Phase [rad]' } },
+                        hAxis: { title: 'Frequency [Hz]' }
+                    }
+                    chart = new google.visualization.LineChart
+                        (
+                            (document.getElementById('chart1'))
+                        );
+                    chart.draw(data, options);
+                    alert("Results are loaded");
+                }
+            });
+        }
+    </script>
+}

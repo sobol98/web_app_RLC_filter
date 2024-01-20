@@ -1,0 +1,17 @@
+﻿@model FilterRLC.Models.FilterParams
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Confirmation</title>
+    <link rel="stylesheet" href="/lib/bootstrap/dist/css/bootstrap.css" />
+</head>
+<body class="text-center">
+    <div>
+        <h2>New filter has been added to the filter collection</h2>
+        <h3>Filter ID=@Model.ID</h3>
+    </div>
+    <a class="btn btn-info" asp-action="ListFilters"> Clck here to see the collection</a>
+</body>
+</html>

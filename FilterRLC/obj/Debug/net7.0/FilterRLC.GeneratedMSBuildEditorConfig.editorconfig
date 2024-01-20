@@ -1,0 +1,65 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = FilterRLC
+build_property.RootNamespace = FilterRLC
+build_property.ProjectDir = D:\PG\1.Studia\ELEKTROTECHNIKA_II_NST\SEM2\dotNet_1\FilterRLC\FilterRLC\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\PG\1.Studia\ELEKTROTECHNIKA_II_NST\SEM2\dotNet_1\FilterRLC\FilterRLC
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/PG/1.Studia/ELEKTROTECHNIKA_II_NST/SEM2/dotNet_1/FilterRLC/FilterRLC/Views/Filter/Calculations.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsdGVyXENhbGN1bGF0aW9ucy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PG/1.Studia/ELEKTROTECHNIKA_II_NST/SEM2/dotNet_1/FilterRLC/FilterRLC/Views/Filter/Confirmation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsdGVyXENvbmZpcm1hdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PG/1.Studia/ELEKTROTECHNIKA_II_NST/SEM2/dotNet_1/FilterRLC/FilterRLC/Views/Filter/EditForm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsdGVyXEVkaXRGb3JtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PG/1.Studia/ELEKTROTECHNIKA_II_NST/SEM2/dotNet_1/FilterRLC/FilterRLC/Views/Filter/FilterForm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsdGVyXEZpbHRlckZvcm0uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PG/1.Studia/ELEKTROTECHNIKA_II_NST/SEM2/dotNet_1/FilterRLC/FilterRLC/Views/Filter/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsdGVyXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PG/1.Studia/ELEKTROTECHNIKA_II_NST/SEM2/dotNet_1/FilterRLC/FilterRLC/Views/Filter/ListFilters.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsdGVyXExpc3RGaWx0ZXJzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PG/1.Studia/ELEKTROTECHNIKA_II_NST/SEM2/dotNet_1/FilterRLC/FilterRLC/Views/Filter/Waveform.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsdGVyXFdhdmVmb3JtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PG/1.Studia/ELEKTROTECHNIKA_II_NST/SEM2/dotNet_1/FilterRLC/FilterRLC/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PG/1.Studia/ELEKTROTECHNIKA_II_NST/SEM2/dotNet_1/FilterRLC/FilterRLC/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PG/1.Studia/ELEKTROTECHNIKA_II_NST/SEM2/dotNet_1/FilterRLC/FilterRLC/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PG/1.Studia/ELEKTROTECHNIKA_II_NST/SEM2/dotNet_1/FilterRLC/FilterRLC/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PG/1.Studia/ELEKTROTECHNIKA_II_NST/SEM2/dotNet_1/FilterRLC/FilterRLC/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-htfk0q4jky

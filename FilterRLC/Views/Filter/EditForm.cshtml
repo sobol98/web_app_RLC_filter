@@ -1,0 +1,69 @@
+﻿@model FilterRLC.Models.FilterParams
+@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Filter Form</title>
+    <link rel="stylesheet" href="~/css/myStyleSheet.css" />
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.css" />
+    <link rel="stylesheet" href="/lib/bootstrap/dist/css/bootstrap.css" />
+</head>
+<body>
+    <h5 class="bg-primary text-white text-center m-2 p-2">
+        Reset params of the filter form
+    </h5>
+    <form asp-action="FilterForm" method="post" class="m-auto">
+        <div class="row">
+            <div asp-validation-summary="All"></div>
+            <div class="col-auto ml-2 gx-5 gy-2">
+                <div class="form-group">
+                    <label asp-for="Resistance_1"></label>
+                    <input asp-for="Resistance_1" value="@Model.Resistance_1" class="form-control col-8" />
+                </div>
+                <div class="form-group">
+                    <label asp-for="Resistance_2"></label>
+                    <input asp-for="Resistance_2" value="@Model.Resistance_2" class="form-control col-8" />
+                </div>
+                <div class="form-group">
+                    <label asp-for="Inductance"></label>
+                    <input asp-for="Inductance" value="@Model.Inductance" class="form-control col-8" />
+                </div>
+                <div class="form-group">
+                    <label asp-for="Capacitance"></label>
+                    <input asp-for="Capacitance" value="@Model.Capacitance" class="form-control col-8" />
+                </div>
+                <div class="form-group">
+                    <label asp-for="U1">Input Voltage [V]</label>
+                    <input asp-for="U1" value="@Model.U1" class="form-control col-8" />
+                </div>
+                <div class="form-group">
+                    <label asp-for="Fmin"></label>
+                    <input asp-for="Fmin" value="@Model.Fmin" class="form-control col-8" />
+                </div>
+                <div class="form-group">
+                    <label asp-for="Fmax"></label>
+                    <input asp-for="Fmax" value="@Model.Fmax" class="form-control col-8" />
+                </div>
+                <div class="form-group">
+                    <label asp-for="NumOfRows"></label>
+                    <input asp-for="NumOfRows" value="@Model.NumOfRows" class="form-control col-8" />
+                </div>
+                <div class="gy-5">
+                    <div class="row p-2 d-flex justify-content-center">
+                        <button type="submit" class="btn btn-primary col-8">Submit</button>
+                    </div>
+                    <div class="row p-2 d-flex justify-content-center">
+                        <a class="btn btn-danger" asp-action="ListFilters">Back to the list of filters</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-8">
+                <img src="~/Images/electric_circuit.png" alt="Filter schematic diagram" class="img-fluid" />
+            </div>
+        </div>
+    </form>
+</body>
+</html>

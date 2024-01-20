@@ -1,0 +1,140 @@
+D:\PG\PG\1.Studia\2 st. Elektrotechnika nst\SEM2\dotNet_1\FilterRLC\FilterRLC\bin\Debug\net7.0\appsettings.Development.json
+D:\PG\PG\1.Studia\2 st. Elektrotechnika nst\SEM2\dotNet_1\FilterRLC\FilterRLC\bin\Debug\net7.0\appsettings.json
+D:\PG\PG\1.Studia\2 st. Elektrotechnika nst\SEM2\dotNet_1\FilterRLC\FilterRLC\bin\Debug\net7.0\FilterRLC.staticwebassets.runtime.json
+D:\PG\PG\1.Studia\2 st. Elektrotechnika nst\SEM2\dotNet_1\FilterRLC\FilterRLC\bin\Debug\net7.0\FilterRLC.exe
+D:\PG\PG\1.Studia\2 st. Elektrotechnika nst\SEM2\dotNet_1\FilterRLC\FilterRLC\bin\Debug\net7.0\FilterRLC.deps.json
+D:\PG\PG\1.Studia\2 st. Elektrotechnika nst\SEM2\dotNet_1\FilterRLC\FilterRLC\bin\Debug\net7.0\FilterRLC.runtimeconfig.json
+D:\PG\PG\1.Studia\2 st. Elektrotechnika nst\SEM2\dotNet_1\FilterRLC\FilterRLC\bin\Debug\net7.0\FilterRLC.dll
+D:\PG\PG\1.Studia\2 st. Elektrotechnika nst\SEM2\dotNet_1\FilterRLC\FilterRLC\bin\Debug\net7.0\FilterRLC.pdb
+D:\PG\PG\1.Studia\2 st. Elektrotechnika nst\SEM2\dotNet_1\FilterRLC\FilterRLC\obj\Debug\net7.0\FilterRLC.csproj.AssemblyReference.cache
+D:\PG\PG\1.Studia\2 st. Elektrotechnika nst\SEM2\dotNet_1\FilterRLC\FilterRLC\obj\Debug\net7.0\FilterRLC.GeneratedMSBuildEditorConfig.editorconfig
+D:\PG\PG\1.Studia\2 st. Elektrotechnika nst\SEM2\dotNet_1\FilterRLC\FilterRLC\obj\Debug\net7.0\FilterRLC.AssemblyInfoInputs.cache
+D:\PG\PG\1.Studia\2 st. Elektrotechnika nst\SEM2\dotNet_1\FilterRLC\FilterRLC\obj\Debug\net7.0\FilterRLC.AssemblyInfo.cs
+D:\PG\PG\1.Studia\2 st. Elektrotechnika nst\SEM2\dotNet_1\FilterRLC\FilterRLC\obj\Debug\net7.0\FilterRLC.csproj.CoreCompileInputs.cache
+D:\PG\PG\1.Studia\2 st. Elektrotechnika nst\SEM2\dotNet_1\FilterRLC\FilterRLC\obj\Debug\net7.0\FilterRLC.MvcApplicationPartsAssemblyInfo.cache
+D:\PG\PG\1.Studia\2 st. Elektrotechnika nst\SEM2\dotNet_1\FilterRLC\FilterRLC\obj\Debug\net7.0\FilterRLC.RazorAssemblyInfo.cache
+D:\PG\PG\1.Studia\2 st. Elektrotechnika nst\SEM2\dotNet_1\FilterRLC\FilterRLC\obj\Debug\net7.0\FilterRLC.RazorAssemblyInfo.cs
+D:\PG\PG\1.Studia\2 st. Elektrotechnika nst\SEM2\dotNet_1\FilterRLC\FilterRLC\obj\Debug\net7.0\staticwebassets\msbuild.FilterRLC.Microsoft.AspNetCore.StaticWebAssets.props
+D:\PG\PG\1.Studia\2 st. Elektrotechnika nst\SEM2\dotNet_1\FilterRLC\FilterRLC\obj\Debug\net7.0\staticwebassets\msbuild.build.FilterRLC.props
+D:\PG\PG\1.Studia\2 st. Elektrotechnika nst\SEM2\dotNet_1\FilterRLC\FilterRLC\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.FilterRLC.props
+D:\PG\PG\1.Studia\2 st. Elektrotechnika nst\SEM2\dotNet_1\FilterRLC\FilterRLC\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.FilterRLC.props
+D:\PG\PG\1.Studia\2 st. Elektrotechnika nst\SEM2\dotNet_1\FilterRLC\FilterRLC\obj\Debug\net7.0\staticwebassets.pack.json
+D:\PG\PG\1.Studia\2 st. Elektrotechnika nst\SEM2\dotNet_1\FilterRLC\FilterRLC\obj\Debug\net7.0\staticwebassets.build.json
+D:\PG\PG\1.Studia\2 st. Elektrotechnika nst\SEM2\dotNet_1\FilterRLC\FilterRLC\obj\Debug\net7.0\staticwebassets.development.json
+D:\PG\PG\1.Studia\2 st. Elektrotechnika nst\SEM2\dotNet_1\FilterRLC\FilterRLC\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\PG\PG\1.Studia\2 st. Elektrotechnika nst\SEM2\dotNet_1\FilterRLC\FilterRLC\obj\Debug\net7.0\scopedcss\bundle\FilterRLC.styles.css
+D:\PG\PG\1.Studia\2 st. Elektrotechnika nst\SEM2\dotNet_1\FilterRLC\FilterRLC\obj\Debug\net7.0\scopedcss\projectbundle\FilterRLC.bundle.scp.css
+D:\PG\PG\1.Studia\2 st. Elektrotechnika nst\SEM2\dotNet_1\FilterRLC\FilterRLC\obj\Debug\net7.0\FilterRLC.dll
+D:\PG\PG\1.Studia\2 st. Elektrotechnika nst\SEM2\dotNet_1\FilterRLC\FilterRLC\obj\Debug\net7.0\refint\FilterRLC.dll
+D:\PG\PG\1.Studia\2 st. Elektrotechnika nst\SEM2\dotNet_1\FilterRLC\FilterRLC\obj\Debug\net7.0\FilterRLC.pdb
+D:\PG\PG\1.Studia\2 st. Elektrotechnika nst\SEM2\dotNet_1\FilterRLC\FilterRLC\obj\Debug\net7.0\FilterRLC.genruntimeconfig.cache
+D:\PG\PG\1.Studia\2 st. Elektrotechnika nst\SEM2\dotNet_1\FilterRLC\FilterRLC\obj\Debug\net7.0\ref\FilterRLC.dll
+D:\PG\PG\1.Studia\2 st. Elektrotechnika nst\SEM2\dotNet_1\FilterRLC\FilterRLC\bin\Debug\net7.0\Azure.Core.dll
+D:\PG\PG\1.Studia\2 st. Elektrotechnika nst\SEM2\dotNet_1\FilterRLC\FilterRLC\bin\Debug\net7.0\Azure.Identity.dll
+D:\PG\PG\1.Studia\2 st. Elektrotechnika nst\SEM2\dotNet_1\FilterRLC\FilterRLC\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\PG\PG\1.Studia\2 st. Elektrotechnika nst\SEM2\dotNet_1\FilterRLC\FilterRLC\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\PG\PG\1.Studia\2 st. Elektrotechnika nst\SEM2\dotNet_1\FilterRLC\FilterRLC\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\PG\PG\1.Studia\2 st. Elektrotechnika nst\SEM2\dotNet_1\FilterRLC\FilterRLC\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\PG\PG\1.Studia\2 st. Elektrotechnika nst\SEM2\dotNet_1\FilterRLC\FilterRLC\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\PG\PG\1.Studia\2 st. Elektrotechnika nst\SEM2\dotNet_1\FilterRLC\FilterRLC\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\PG\PG\1.Studia\2 st. Elektrotechnika nst\SEM2\dotNet_1\FilterRLC\FilterRLC\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\PG\PG\1.Studia\2 st. Elektrotechnika nst\SEM2\dotNet_1\FilterRLC\FilterRLC\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\PG\PG\1.Studia\2 st. Elektrotechnika nst\SEM2\dotNet_1\FilterRLC\FilterRLC\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\PG\PG\1.Studia\2 st. Elektrotechnika nst\SEM2\dotNet_1\FilterRLC\FilterRLC\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\PG\PG\1.Studia\2 st. Elektrotechnika nst\SEM2\dotNet_1\FilterRLC\FilterRLC\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\PG\PG\1.Studia\2 st. Elektrotechnika nst\SEM2\dotNet_1\FilterRLC\FilterRLC\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\PG\PG\1.Studia\2 st. Elektrotechnika nst\SEM2\dotNet_1\FilterRLC\FilterRLC\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\PG\PG\1.Studia\2 st. Elektrotechnika nst\SEM2\dotNet_1\FilterRLC\FilterRLC\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\PG\PG\1.Studia\2 st. Elektrotechnika nst\SEM2\dotNet_1\FilterRLC\FilterRLC\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\PG\PG\1.Studia\2 st. Elektrotechnika nst\SEM2\dotNet_1\FilterRLC\FilterRLC\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\PG\PG\1.Studia\2 st. Elektrotechnika nst\SEM2\dotNet_1\FilterRLC\FilterRLC\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\PG\PG\1.Studia\2 st. Elektrotechnika nst\SEM2\dotNet_1\FilterRLC\FilterRLC\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\PG\PG\1.Studia\2 st. Elektrotechnika nst\SEM2\dotNet_1\FilterRLC\FilterRLC\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\PG\PG\1.Studia\2 st. Elektrotechnika nst\SEM2\dotNet_1\FilterRLC\FilterRLC\bin\Debug\net7.0\System.Memory.Data.dll
+D:\PG\PG\1.Studia\2 st. Elektrotechnika nst\SEM2\dotNet_1\FilterRLC\FilterRLC\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\PG\PG\1.Studia\2 st. Elektrotechnika nst\SEM2\dotNet_1\FilterRLC\FilterRLC\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\PG\PG\1.Studia\2 st. Elektrotechnika nst\SEM2\dotNet_1\FilterRLC\FilterRLC\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\PG\PG\1.Studia\2 st. Elektrotechnika nst\SEM2\dotNet_1\FilterRLC\FilterRLC\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\PG\PG\1.Studia\2 st. Elektrotechnika nst\SEM2\dotNet_1\FilterRLC\FilterRLC\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\PG\PG\1.Studia\2 st. Elektrotechnika nst\SEM2\dotNet_1\FilterRLC\FilterRLC\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\PG\PG\1.Studia\2 st. Elektrotechnika nst\SEM2\dotNet_1\FilterRLC\FilterRLC\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PG\PG\1.Studia\2 st. Elektrotechnika nst\SEM2\dotNet_1\FilterRLC\FilterRLC\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PG\PG\1.Studia\2 st. Elektrotechnika nst\SEM2\dotNet_1\FilterRLC\FilterRLC\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PG\PG\1.Studia\2 st. Elektrotechnika nst\SEM2\dotNet_1\FilterRLC\FilterRLC\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PG\PG\1.Studia\2 st. Elektrotechnika nst\SEM2\dotNet_1\FilterRLC\FilterRLC\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\PG\PG\1.Studia\2 st. Elektrotechnika nst\SEM2\dotNet_1\FilterRLC\FilterRLC\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\PG\PG\1.Studia\2 st. Elektrotechnika nst\SEM2\dotNet_1\FilterRLC\FilterRLC\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\PG\PG\1.Studia\2 st. Elektrotechnika nst\SEM2\dotNet_1\FilterRLC\FilterRLC\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\PG\PG\1.Studia\2 st. Elektrotechnika nst\SEM2\dotNet_1\FilterRLC\FilterRLC\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\PG\PG\1.Studia\2 st. Elektrotechnika nst\SEM2\dotNet_1\FilterRLC\FilterRLC\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\PG\PG\1.Studia\2 st. Elektrotechnika nst\SEM2\dotNet_1\FilterRLC\FilterRLC\obj\Debug\net7.0\FilterRLC.csproj.CopyComplete
+D:\PG\1.Studia\ELEKTROTECHNIKA_II_NST\SEM2\dotNet_1\FilterRLC\FilterRLC\bin\Debug\net7.0\appsettings.Development.json
+D:\PG\1.Studia\ELEKTROTECHNIKA_II_NST\SEM2\dotNet_1\FilterRLC\FilterRLC\bin\Debug\net7.0\appsettings.json
+D:\PG\1.Studia\ELEKTROTECHNIKA_II_NST\SEM2\dotNet_1\FilterRLC\FilterRLC\bin\Debug\net7.0\FilterRLC.staticwebassets.runtime.json
+D:\PG\1.Studia\ELEKTROTECHNIKA_II_NST\SEM2\dotNet_1\FilterRLC\FilterRLC\bin\Debug\net7.0\FilterRLC.exe
+D:\PG\1.Studia\ELEKTROTECHNIKA_II_NST\SEM2\dotNet_1\FilterRLC\FilterRLC\bin\Debug\net7.0\FilterRLC.deps.json
+D:\PG\1.Studia\ELEKTROTECHNIKA_II_NST\SEM2\dotNet_1\FilterRLC\FilterRLC\bin\Debug\net7.0\FilterRLC.runtimeconfig.json
+D:\PG\1.Studia\ELEKTROTECHNIKA_II_NST\SEM2\dotNet_1\FilterRLC\FilterRLC\bin\Debug\net7.0\FilterRLC.dll
+D:\PG\1.Studia\ELEKTROTECHNIKA_II_NST\SEM2\dotNet_1\FilterRLC\FilterRLC\bin\Debug\net7.0\FilterRLC.pdb
+D:\PG\1.Studia\ELEKTROTECHNIKA_II_NST\SEM2\dotNet_1\FilterRLC\FilterRLC\bin\Debug\net7.0\Azure.Core.dll
+D:\PG\1.Studia\ELEKTROTECHNIKA_II_NST\SEM2\dotNet_1\FilterRLC\FilterRLC\bin\Debug\net7.0\Azure.Identity.dll
+D:\PG\1.Studia\ELEKTROTECHNIKA_II_NST\SEM2\dotNet_1\FilterRLC\FilterRLC\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\PG\1.Studia\ELEKTROTECHNIKA_II_NST\SEM2\dotNet_1\FilterRLC\FilterRLC\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\PG\1.Studia\ELEKTROTECHNIKA_II_NST\SEM2\dotNet_1\FilterRLC\FilterRLC\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\PG\1.Studia\ELEKTROTECHNIKA_II_NST\SEM2\dotNet_1\FilterRLC\FilterRLC\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\PG\1.Studia\ELEKTROTECHNIKA_II_NST\SEM2\dotNet_1\FilterRLC\FilterRLC\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\PG\1.Studia\ELEKTROTECHNIKA_II_NST\SEM2\dotNet_1\FilterRLC\FilterRLC\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\PG\1.Studia\ELEKTROTECHNIKA_II_NST\SEM2\dotNet_1\FilterRLC\FilterRLC\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\PG\1.Studia\ELEKTROTECHNIKA_II_NST\SEM2\dotNet_1\FilterRLC\FilterRLC\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\PG\1.Studia\ELEKTROTECHNIKA_II_NST\SEM2\dotNet_1\FilterRLC\FilterRLC\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\PG\1.Studia\ELEKTROTECHNIKA_II_NST\SEM2\dotNet_1\FilterRLC\FilterRLC\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\PG\1.Studia\ELEKTROTECHNIKA_II_NST\SEM2\dotNet_1\FilterRLC\FilterRLC\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\PG\1.Studia\ELEKTROTECHNIKA_II_NST\SEM2\dotNet_1\FilterRLC\FilterRLC\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\PG\1.Studia\ELEKTROTECHNIKA_II_NST\SEM2\dotNet_1\FilterRLC\FilterRLC\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\PG\1.Studia\ELEKTROTECHNIKA_II_NST\SEM2\dotNet_1\FilterRLC\FilterRLC\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\PG\1.Studia\ELEKTROTECHNIKA_II_NST\SEM2\dotNet_1\FilterRLC\FilterRLC\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\PG\1.Studia\ELEKTROTECHNIKA_II_NST\SEM2\dotNet_1\FilterRLC\FilterRLC\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\PG\1.Studia\ELEKTROTECHNIKA_II_NST\SEM2\dotNet_1\FilterRLC\FilterRLC\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\PG\1.Studia\ELEKTROTECHNIKA_II_NST\SEM2\dotNet_1\FilterRLC\FilterRLC\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\PG\1.Studia\ELEKTROTECHNIKA_II_NST\SEM2\dotNet_1\FilterRLC\FilterRLC\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\PG\1.Studia\ELEKTROTECHNIKA_II_NST\SEM2\dotNet_1\FilterRLC\FilterRLC\bin\Debug\net7.0\System.Memory.Data.dll
+D:\PG\1.Studia\ELEKTROTECHNIKA_II_NST\SEM2\dotNet_1\FilterRLC\FilterRLC\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\PG\1.Studia\ELEKTROTECHNIKA_II_NST\SEM2\dotNet_1\FilterRLC\FilterRLC\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\PG\1.Studia\ELEKTROTECHNIKA_II_NST\SEM2\dotNet_1\FilterRLC\FilterRLC\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\PG\1.Studia\ELEKTROTECHNIKA_II_NST\SEM2\dotNet_1\FilterRLC\FilterRLC\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\PG\1.Studia\ELEKTROTECHNIKA_II_NST\SEM2\dotNet_1\FilterRLC\FilterRLC\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\PG\1.Studia\ELEKTROTECHNIKA_II_NST\SEM2\dotNet_1\FilterRLC\FilterRLC\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\PG\1.Studia\ELEKTROTECHNIKA_II_NST\SEM2\dotNet_1\FilterRLC\FilterRLC\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PG\1.Studia\ELEKTROTECHNIKA_II_NST\SEM2\dotNet_1\FilterRLC\FilterRLC\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PG\1.Studia\ELEKTROTECHNIKA_II_NST\SEM2\dotNet_1\FilterRLC\FilterRLC\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PG\1.Studia\ELEKTROTECHNIKA_II_NST\SEM2\dotNet_1\FilterRLC\FilterRLC\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PG\1.Studia\ELEKTROTECHNIKA_II_NST\SEM2\dotNet_1\FilterRLC\FilterRLC\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\PG\1.Studia\ELEKTROTECHNIKA_II_NST\SEM2\dotNet_1\FilterRLC\FilterRLC\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\PG\1.Studia\ELEKTROTECHNIKA_II_NST\SEM2\dotNet_1\FilterRLC\FilterRLC\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\PG\1.Studia\ELEKTROTECHNIKA_II_NST\SEM2\dotNet_1\FilterRLC\FilterRLC\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\PG\1.Studia\ELEKTROTECHNIKA_II_NST\SEM2\dotNet_1\FilterRLC\FilterRLC\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\PG\1.Studia\ELEKTROTECHNIKA_II_NST\SEM2\dotNet_1\FilterRLC\FilterRLC\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\PG\1.Studia\ELEKTROTECHNIKA_II_NST\SEM2\dotNet_1\FilterRLC\FilterRLC\obj\Debug\net7.0\FilterRLC.csproj.AssemblyReference.cache
+D:\PG\1.Studia\ELEKTROTECHNIKA_II_NST\SEM2\dotNet_1\FilterRLC\FilterRLC\obj\Debug\net7.0\FilterRLC.GeneratedMSBuildEditorConfig.editorconfig
+D:\PG\1.Studia\ELEKTROTECHNIKA_II_NST\SEM2\dotNet_1\FilterRLC\FilterRLC\obj\Debug\net7.0\FilterRLC.AssemblyInfoInputs.cache
+D:\PG\1.Studia\ELEKTROTECHNIKA_II_NST\SEM2\dotNet_1\FilterRLC\FilterRLC\obj\Debug\net7.0\FilterRLC.AssemblyInfo.cs
+D:\PG\1.Studia\ELEKTROTECHNIKA_II_NST\SEM2\dotNet_1\FilterRLC\FilterRLC\obj\Debug\net7.0\FilterRLC.csproj.CoreCompileInputs.cache
+D:\PG\1.Studia\ELEKTROTECHNIKA_II_NST\SEM2\dotNet_1\FilterRLC\FilterRLC\obj\Debug\net7.0\FilterRLC.MvcApplicationPartsAssemblyInfo.cache
+D:\PG\1.Studia\ELEKTROTECHNIKA_II_NST\SEM2\dotNet_1\FilterRLC\FilterRLC\obj\Debug\net7.0\FilterRLC.RazorAssemblyInfo.cache
+D:\PG\1.Studia\ELEKTROTECHNIKA_II_NST\SEM2\dotNet_1\FilterRLC\FilterRLC\obj\Debug\net7.0\FilterRLC.RazorAssemblyInfo.cs
+D:\PG\1.Studia\ELEKTROTECHNIKA_II_NST\SEM2\dotNet_1\FilterRLC\FilterRLC\obj\Debug\net7.0\staticwebassets\msbuild.FilterRLC.Microsoft.AspNetCore.StaticWebAssets.props
+D:\PG\1.Studia\ELEKTROTECHNIKA_II_NST\SEM2\dotNet_1\FilterRLC\FilterRLC\obj\Debug\net7.0\staticwebassets\msbuild.build.FilterRLC.props
+D:\PG\1.Studia\ELEKTROTECHNIKA_II_NST\SEM2\dotNet_1\FilterRLC\FilterRLC\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.FilterRLC.props
+D:\PG\1.Studia\ELEKTROTECHNIKA_II_NST\SEM2\dotNet_1\FilterRLC\FilterRLC\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.FilterRLC.props
+D:\PG\1.Studia\ELEKTROTECHNIKA_II_NST\SEM2\dotNet_1\FilterRLC\FilterRLC\obj\Debug\net7.0\staticwebassets.pack.json
+D:\PG\1.Studia\ELEKTROTECHNIKA_II_NST\SEM2\dotNet_1\FilterRLC\FilterRLC\obj\Debug\net7.0\staticwebassets.build.json
+D:\PG\1.Studia\ELEKTROTECHNIKA_II_NST\SEM2\dotNet_1\FilterRLC\FilterRLC\obj\Debug\net7.0\staticwebassets.development.json
+D:\PG\1.Studia\ELEKTROTECHNIKA_II_NST\SEM2\dotNet_1\FilterRLC\FilterRLC\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\PG\1.Studia\ELEKTROTECHNIKA_II_NST\SEM2\dotNet_1\FilterRLC\FilterRLC\obj\Debug\net7.0\scopedcss\bundle\FilterRLC.styles.css
+D:\PG\1.Studia\ELEKTROTECHNIKA_II_NST\SEM2\dotNet_1\FilterRLC\FilterRLC\obj\Debug\net7.0\scopedcss\projectbundle\FilterRLC.bundle.scp.css
+D:\PG\1.Studia\ELEKTROTECHNIKA_II_NST\SEM2\dotNet_1\FilterRLC\FilterRLC\obj\Debug\net7.0\FilterRLC.csproj.CopyComplete
+D:\PG\1.Studia\ELEKTROTECHNIKA_II_NST\SEM2\dotNet_1\FilterRLC\FilterRLC\obj\Debug\net7.0\FilterRLC.dll
+D:\PG\1.Studia\ELEKTROTECHNIKA_II_NST\SEM2\dotNet_1\FilterRLC\FilterRLC\obj\Debug\net7.0\refint\FilterRLC.dll
+D:\PG\1.Studia\ELEKTROTECHNIKA_II_NST\SEM2\dotNet_1\FilterRLC\FilterRLC\obj\Debug\net7.0\FilterRLC.pdb
+D:\PG\1.Studia\ELEKTROTECHNIKA_II_NST\SEM2\dotNet_1\FilterRLC\FilterRLC\obj\Debug\net7.0\FilterRLC.genruntimeconfig.cache
+D:\PG\1.Studia\ELEKTROTECHNIKA_II_NST\SEM2\dotNet_1\FilterRLC\FilterRLC\obj\Debug\net7.0\ref\FilterRLC.dll
